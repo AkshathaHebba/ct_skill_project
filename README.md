@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+## Hiking Schedule Website - Front-End Development with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+#Description:
+This project is a front-end development of a hiking schedule website using HTML, CSS, JavaScript, and React. The main goal of this project is to create a visually appealing user interface that is responsive and accessible across various devices and web browsers.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##Key Features:
+- Visualization: The website offers an immersive and visually pleasing experience, showcasing beautiful hiking destinations with stunning imagery.
+- Schedule Organization: Users can view and manage their hiking schedules efficiently, allowing them to plan and keep track of their upcoming hikes.
+- Responsive Design: The UI is designed to adapt seamlessly to different screen sizes, ensuring a consistent and enjoyable user experience on desktops, tablets, and mobile devices.
+- Cross-Browser Compatibility: The website is thoroughly tested to work flawlessly across major web browsers, ensuring a consistent appearance and functionality.
+- Component-based Architecture: The project follows a modular approach, utilizing React components to promote code reusability, maintainability, and scalability.
+- User-Friendly Interactions: The website incorporates intuitive user interactions, such as smooth scrolling, animated transitions, and interactive elements, to enhance the overall user experience.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+By combining modern front-end technologies and best practices, this hiking schedule website aims to provide outdoor enthusiasts with an engaging and efficient platform to plan and organize their hiking adventures.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="1323" alt="Screen Shot 2023-06-12 at 9 47 45 PM" src="https://github.com/AkshathaHebba/ct_skill_project/assets/25522884/ea5860cb-8afb-43e7-a621-7bc8ff6a76f8">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1335" alt="Screen Shot 2023-06-12 at 9 48 17 PM" src="https://github.com/AkshathaHebba/ct_skill_project/assets/25522884/9aead2fc-50b7-492b-bea8-7063da0f4ec0">
