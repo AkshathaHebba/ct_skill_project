@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c551f82a.css",
-    "main.js": "/static/js/main.cb770951.js",
-    "static/js/787.6bd9d9b6.chunk.js": "/static/js/787.6bd9d9b6.chunk.js",
-    "static/media/Hero1.png": "/static/media/Hero1.63f29b9fc8e37d4798be.png",
-    "static/media/Hero2.png": "/static/media/Hero2.907fcccde9bea0aea634.png",
-    "static/media/Hero3.png": "/static/media/Hero3.d87edbaea94184bd8588.png",
-    "static/media/Hero4.png": "/static/media/Hero4.3940b4cd9a00accd9a29.png",
-    "static/media/Carasol Image.png": "/static/media/Carasol Image.de2984e14f576ee69bd6.png",
-    "index.html": "/index.html",
-    "main.c551f82a.css.map": "/static/css/main.c551f82a.css.map",
-    "main.cb770951.js.map": "/static/js/main.cb770951.js.map",
-    "787.6bd9d9b6.chunk.js.map": "/static/js/787.6bd9d9b6.chunk.js.map"
+    "main.css": "https://akshathahebba.github.io/ct_skill_project/static/css/main.c551f82a.css",
+    "main.js": "https://akshathahebba.github.io/ct_skill_project/static/js/main.1b66ada6.js",
+    "static/js/787.6bd9d9b6.chunk.js": "https://akshathahebba.github.io/ct_skill_project/static/js/787.6bd9d9b6.chunk.js",
+    "static/media/Hero1.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Hero1.63f29b9fc8e37d4798be.png",
+    "static/media/Hero2.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Hero2.907fcccde9bea0aea634.png",
+    "static/media/Hero3.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Hero3.d87edbaea94184bd8588.png",
+    "static/media/Hero4.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Hero4.3940b4cd9a00accd9a29.png",
+    "static/media/Carasol Image.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Carasol Image.de2984e14f576ee69bd6.png",
+    "index.html": "https://akshathahebba.github.io/ct_skill_project/index.html",
+    "main.c551f82a.css.map": "https://akshathahebba.github.io/ct_skill_project/static/css/main.c551f82a.css.map",
+    "main.1b66ada6.js.map": "https://akshathahebba.github.io/ct_skill_project/static/js/main.1b66ada6.js.map",
+    "787.6bd9d9b6.chunk.js.map": "https://akshathahebba.github.io/ct_skill_project/static/js/787.6bd9d9b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c551f82a.css",
-    "static/js/main.cb770951.js"
+    "static/js/main.1b66ada6.js"
   ]
 }
