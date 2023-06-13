@@ -1,0 +1,21 @@
+.Footer__OuterContainer{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(63, 77, 105);
+}
+.Footer__Container{
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.Footer__copyrights{
+    text-transform: uppercase;
+}

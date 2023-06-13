@@ -1,0 +1,52 @@
+.Header__OuterContainer {
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+}
+
+.Header__OuterContainer--inverted {
+    background: white;
+}
+
+.Header__Container {
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+
+.Header__LeftSection {
+    width: 50%;
+}
+
+.Header__Logo {
+    margin-left: 20px;
+}
+
+.Header__RightSection {
+    width: 50%;
+}
+
+.Header__LinksContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+.Header__Links{
+    color: white;
+    font-weight: 800;
+    /*text-decoration: underline;*/
+    margin-right: 20px;
+    font-size: 12px;
+}
+
+.Header__Links--inverted {
+    color: #3a4d80;
+}

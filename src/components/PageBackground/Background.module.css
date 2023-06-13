@@ -1,0 +1,20 @@
+.PageBackground__Container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Background__ImageContainer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+@media (max-width: 1600px) {
+    .Background__ImageContainer {
+        object-fit: cover;
+    }
+}

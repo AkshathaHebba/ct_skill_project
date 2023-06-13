@@ -1,0 +1,65 @@
+.About__ContentContainer {
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: nowrap;
+    align-items: stretch;
+}
+
+.About__HeadingContainer {
+    max-width: 500px;
+    margin: 60px auto auto;
+    padding: 10px;
+}
+
+.About__ClimbHeadingContainer {
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.About__ClimbHeadingTextContainer {
+    padding-right: 20px;
+}
+
+.About__HeadingText {
+    margin-top: 30px;
+    text-transform: uppercase;
+    color: #434f6a;
+    font-weight: bold;
+}
+
+.TabViewContent__Container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    position: relative;
+}
+
+.TabViewContent__ScheduleTable {
+    position: absolute;
+    left: 20%;
+}
+
+@media (max-width: 540px) {
+    .TabViewContent__ScheduleTable {
+        position: inherit;
+        margin: auto;
+        left: initial;
+    }
+}

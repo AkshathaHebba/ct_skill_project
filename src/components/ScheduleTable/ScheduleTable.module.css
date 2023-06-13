@@ -1,0 +1,18 @@
+.ScheduleTableRow{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+}
+.ScheduleTable__Container{
+    max-width: 300px;
+    width: 100%;
+    background: rgba(180, 187, 214, 0.6);
+    padding: 20px;
+}
+.ScheduleTable__Heading{
+    margin: 0;
+    color: #434f6a;
+    font-weight: bold;
+    text-transform: uppercase;
+}
