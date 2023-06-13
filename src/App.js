@@ -8,13 +8,15 @@ import {
     Routes
 } from "react-router-dom";
 
+const baseURL = process.env.PUBLIC_URL || '';
+
 function App() {
   return (
     <div className="App">
         <Router>
             <Routes>
-                <Route exact path='/about' element={<About />} />
-                <Route exact index path='/' element={<Home />} />
+                <Route path={`${baseURL}/about`} element={<About />} />
+                <Route exact index path={`${baseURL}/`} element={<Home />} />
             </Routes>
         </Router>
     </div>

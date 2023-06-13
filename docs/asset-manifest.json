@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://akshathahebba.github.io/ct_skill_project/static/css/main.c551f82a.css",
-    "main.js": "https://akshathahebba.github.io/ct_skill_project/static/js/main.1b66ada6.js",
+    "main.js": "https://akshathahebba.github.io/ct_skill_project/static/js/main.a1258e03.js",
     "static/js/787.6bd9d9b6.chunk.js": "https://akshathahebba.github.io/ct_skill_project/static/js/787.6bd9d9b6.chunk.js",
     "static/media/Hero1.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Hero1.63f29b9fc8e37d4798be.png",
     "static/media/Hero2.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Hero2.907fcccde9bea0aea634.png",
@@ -10,11 +10,11 @@
     "static/media/Carasol Image.png": "https://akshathahebba.github.io/ct_skill_project/static/media/Carasol Image.de2984e14f576ee69bd6.png",
     "index.html": "https://akshathahebba.github.io/ct_skill_project/index.html",
     "main.c551f82a.css.map": "https://akshathahebba.github.io/ct_skill_project/static/css/main.c551f82a.css.map",
-    "main.1b66ada6.js.map": "https://akshathahebba.github.io/ct_skill_project/static/js/main.1b66ada6.js.map",
+    "main.a1258e03.js.map": "https://akshathahebba.github.io/ct_skill_project/static/js/main.a1258e03.js.map",
     "787.6bd9d9b6.chunk.js.map": "https://akshathahebba.github.io/ct_skill_project/static/js/787.6bd9d9b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c551f82a.css",
-    "static/js/main.1b66ada6.js"
+    "static/js/main.a1258e03.js"
   ]
 }
