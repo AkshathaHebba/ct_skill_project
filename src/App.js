@@ -16,7 +16,7 @@ function App() {
         <Router>
             <Routes>
                 <Route path={`${baseURL}/about`} element={<About />} />
-                <Route exact index path={`${baseURL}/`} element={<Home />} />
+                <Route path={`${baseURL}/`} element={<Home />} />
             </Routes>
         </Router>
     </div>
